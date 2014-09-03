@@ -1,0 +1,21 @@
+{
+  "name": "css-inline",
+  "version": "0.0.1",
+  "description": "Inline css into html dom",
+  "scripts": {
+    "test": "node test/run"
+  },
+  "repository": "git@github.com:fritx/css-inline.git",
+  "keywords": [
+    "css",
+    "inline",
+    "style",
+    "juice"
+  ],
+  "dependencies": {
+    "css-obj": "0.0.1",
+    "domino": "^1.0.17",
+    "underscore": "^1.7.0",
+    "zepto-node": "^1.0.0"
+  }
+}

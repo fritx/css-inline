@@ -1,0 +1,10 @@
+.box {
+  background-color: blue;
+}
+body > .box {
+  color: red;
+}
+.box img {
+  width: 100%;
+  height: auto;
+}
